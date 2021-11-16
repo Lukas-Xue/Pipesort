@@ -1,6 +1,6 @@
 ## Pipesort
 
-pipesort reads text from standard input and writes the unique words to standard output sorted in alphabetic order, along with its word count. 
+pipesort reads text from standard input and writes the unique words to standard output sorted in alphabetic order, along with its word count. Emory Honor Code applies.
 
 #### Synopsis (Usage):
 
